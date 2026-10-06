@@ -1,0 +1,2 @@
+Location: sample.dd
+RecoveryLocation: carve_out

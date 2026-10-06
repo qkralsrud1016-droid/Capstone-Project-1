@@ -1,0 +1,3 @@
+Location:/Users/bagmingyeong
+FileType:PDF or DocX or txt or Doc
+Keywords:Weapon or Linux and Windows

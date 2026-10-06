@@ -1,0 +1,3 @@
+Location:/Users/bagmingyeong
+FileType:JPEG or PNG or PDF or DocX or txt or Doc
+Keywords:Email or Microsoft or March or 0x1a2b3c

@@ -1,0 +1,3 @@
+Location:sample.dd
+FileType:JPG or PNG or PDF or DocX or txt or Doc
+Keywords:rhino or Orleans or FTP or USB
